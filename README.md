@@ -16,13 +16,11 @@ A VS Code color theme inspired by [Logseq](https://logseq.com/)'s calm, focused 
 
 ## 📸 Screenshots
 
-*Add screenshots here once available*
-
 ### Light Theme
-![Logseq Tone Light](https://via.placeholder.com/800x500?text=Logseq+Tone+Light+Screenshot)
+![Logseq Tone Light](./screenshots/light-theme.png)
 
 ### Dark Theme  
-![Logseq Tone Dark](https://via.placeholder.com/800x500?text=Logseq+Tone+Dark+Screenshot)
+![Logseq Tone Dark](./screenshots/dark-theme.png)
 
 ## 🚀 Installation
 
