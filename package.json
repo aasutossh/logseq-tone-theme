@@ -1,0 +1,38 @@
+{
+  "name": "logseq-tone-theme",
+  "displayName": "Logseq Tone",
+  "description": "A VS Code theme inspired by Logseq with subtle, monochromatic syntax highlighting",
+  "version": "0.1.0",
+  "publisher": "aasutossh",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Logseq Tone Light",
+        "uiTheme": "vs",
+        "path": "./themes/logseq-light-theme.json"
+      },
+      {
+        "label": "Logseq Tone Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/logseq-dark-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "logseq",
+    "color-theme",
+    "minimal",
+    "productivity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aasutossh/logseq-tone-theme.git"
+  }
+}
